@@ -11,6 +11,7 @@ TUI TicTacToe because why not 🤷. (Mainly for the fun of writing code.)
 ## Possible improvements
 
 - [ ] Make crossplatform
+- [ ] Accept any (sensible) sized board
 - [ ] Implement better practises for code
 - [ ] Split into multiple files for cleaner code
 - [ ] Implement strategy pattern for the computer player
